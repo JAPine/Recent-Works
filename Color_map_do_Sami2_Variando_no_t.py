@@ -1,4 +1,15 @@
 # -*- coding: utf-8 -*-
+'''
+This code demonstrates the data treatment for data analysis and data science: 
+Data Cleaning: It efficiently reads and processes data from external files, handling missing or incomplete 
+values through row padding.
+Array Manipulation: It utilizes NumPy arrays to reshape and manipulate data, facilitating operations like 
+indexing and slicing for multidimensional data structures. 
+Statistical Analysis and Calculation: It performs statistical calculations such as mean and difference calculations to 
+derive parameters essential for further analysis. 
+Visualization: Through Matplotlib, it creates visually informative plots, applying color mapping and logarithmic normalization 
+to represent density data effectively.
+'''
 import matplotlib.pyplot as plt
 import numpy as np
 from array import array
